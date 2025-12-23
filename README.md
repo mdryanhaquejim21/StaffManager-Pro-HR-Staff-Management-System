@@ -1,2 +1,2 @@
-# StaffManager-Pro-with-API-and-File-Support
+# StaffManager Pro: HR Staff Management System
 University Project (PROGRAMMING IN PYTHON - Midterm)
