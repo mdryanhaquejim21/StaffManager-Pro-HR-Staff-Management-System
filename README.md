@@ -11,22 +11,22 @@ Implemented Features Overview :
 Secure Login: Users authenticate against records in users.txt
 Initial Setup: Automatically creates a default admin user (admin/1234) if none exists
 
-2. Department Management (CRUD)
+2. Department Management (CRUD) :
 Complete Create, Read, Update, Delete operations for departments
 List view displayed as a formatted table with headers
 
-3. Staff Management (Comprehensive)
+3. Staff Management (Comprehensive) :
 Add, Update, Delete staff records (ID, Name, Department ID, Position, Salary)
 Case-insensitive name search
 Salary adjustment (increase/decrease with negative salary protection)
 Staff promotion (position update)
 All list and search results shown in clean, aligned tables with column headers
 
-4. Attendance Tracking
+4. Attendance Tracking :
 Record daily Present/Absent status for any staff member
 View complete attendance history for a staff ID in formatted summary
 
-5. Client Interface
+5. Client Interface : 
 Menu-driven console application
 Clear, readable output with proper table formatting
 No direct file access from client - all operations via API
